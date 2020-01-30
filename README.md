@@ -1,23 +1,9 @@
-
-# HTML Introduction - Lab
-
-## Introduction
-
-It's time to practice making a well formatted HTML document! While you may normally prefer to work locally, you're encouraged to work on this lesson through the Learn platform, as it will be formatted nicely, with screenshots inline to guide you and a built-in development environment.
-
-## Objectives
-You will be able to:
-* Explain what HTML is and why it's important in the context of web development
-* Compare and contrast HTML tags
-* Create an HTML document with appropriate tags
-
-## The Web Developers Toolset
-
-Like all lessons, you can complete this lesson locally on your hard drive. However, you're certain to notice that there is no jupyter/ipython notebook with the file extension .ipynb in this lesson's repository! While you'll use many of the same tools as you have been previously: the command line, a text editor, and a web browser, this lesson is a little bit different in that you'll be designing a minimalist web page! 
-
+<!DOCTYPE html>
+<head>
 ## The In-Browser IDE
-
-If you're viewing this lesson on learn, towards the top of this page you'll see a button that says "Open IDE" (it's just to the left of the GitHub and Raise Issue icons). This will allow you to have a terminal and text editor emulated in your browser! With that, you won't even have to open up another program.
+</head>
+<body>
+<p>If you're viewing this lesson on learn, towards the top of this page you'll see a button that says "Open IDE" (it's just to the left of the GitHub and Raise Issue icons). This will allow you to have a terminal and text editor emulated in your browser! With that, you won't even have to open up another program.</p>
 
 Once you click it, your browser should look something like this:
 
@@ -26,7 +12,7 @@ Once you click it, your browser should look something like this:
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in browser".
 
-When you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!
+<p>When you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!</p>
 
 
 ## Instructions
@@ -66,3 +52,5 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+</body>
+</html>
