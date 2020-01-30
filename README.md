@@ -8,7 +8,7 @@
 Once you click it, your browser should look something like this:
 
 
-<p><img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-html-introduction-lab/master/images/open_ide1.png"</p>
+<p><img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-html-introduction-lab/master/images/open_ide1.png"></p>
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in browser".
 
